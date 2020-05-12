@@ -1,2 +1,3 @@
 # tutorial_node_api_rest_consumo
-Um site para consumir a api rest
+
+Um site simpes para consumir a api rest localizada no repositório https://github.com/gguilhermepires/tutorial_node_api_rest
